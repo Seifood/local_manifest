@@ -2,7 +2,7 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/xiaomi/gauguin" name="Seifood/device_xiaomi_gauguin-3.git" remote="github" revision="twelve" />
+ <project path="device/xiaomi/gauguin" name="Seifood/device_xiaomi_gauguin-5.git" remote="github" revision="twelve" />
  <project path="vendor/xiaomi/gauguin" name="ArixElo/android_vendor_xiaomi_gauguin.git" remote="github" revision="twelve" />
  <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi.git" remote="github" revision="lineage-18.1" />
 
