@@ -6,4 +6,7 @@
  <project path="vendor/xiaomi/gauguin" name="ArixElo/android_vendor_xiaomi_gauguin.git" remote="github" revision="twelve" />
  <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi.git" remote="github" revision="lineage-18.1" />
 
+ <!-- Stuff -->
+ <project path="external/tinyxml" name="Project-LegionOS/external_tinyxml.git" remote="github" revision="12" />
+
 </manifest>
