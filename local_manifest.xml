@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+   <!-- Github remote -->
+   <remote name="Seifood" fetch="https://github.com/Seifood" />
+   <remote name="ArixElo" fetch="https://github.com/ArixElo" />
+   <remote name="LineageOS" fetch="https://github.com/LineageOS />
+
  <!-- Trees -->
- <project path="device/xiaomi/gauguin" name="Seifood/android_device_xiaomi_gauguin.git" remote="github" revision="12" />
- <project path="vendor/xiaomi/gauguin" name="ArixElo/android_vendor_xiaomi_gauguin.git" remote="github" revision="twelve" />
- <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi.git" remote="github" revision="lineage-18.1" />
+ <project path="device/xiaomi/gauguin" name="android_device_xiaomi_gauguin.git" remote="Seifood" revision="12" />
+ <project path="vendor/xiaomi/gauguin" name="android_vendor_xiaomi_gauguin.git" remote="ArixElo" revision="twelve" />
+ <project path="hardware/xiaomi" name="android_hardware_xiaomi.git" remote="LineageOS" revision="lineage-18.1" />
 
 </manifest>
