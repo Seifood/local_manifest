@@ -3,11 +3,10 @@
 
    <!-- github remote -->
    <remote name="Seifood" fetch="https://github.com/Seifood" />
-   <remote name="ArixElo" fetch="https://github.com/ArixElo" />
    
    <!-- Trees -->
    <project path="device/xiaomi/gauguin" name="android_device_xiaomi_gauguin.git" remote="Seifood" revision="12" />
-   <project path="vendor/xiaomi/gauguin" name="android_vendor_xiaomi_gauguin.git" remote="ArixElo" revision="twelve" />
+   <project path="vendor/xiaomi/gauguin" name="vendor_xiaomi_gauguin.git" remote="Seifood" revision="dot11" />
    <project path="hardware/xiaomi" name="android_hardware_xiaomi.git" remote="Seifood" revision="lineage-18.1" />
 
 </manifest>
