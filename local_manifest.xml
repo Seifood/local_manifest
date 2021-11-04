@@ -11,6 +11,5 @@
    <!-- Trees -->
    <project path="device/xiaomi/gauguin" name="android_device_xiaomi_gauguin.git" remote="Seifood" revision="12" />
    <project path="vendor/xiaomi/gauguin" name="vendor_xiaomi_gauguin" remote="elixir-gitlab" />
-   <project path="hardware/xiaomi" name="android_hardware_xiaomi.git" remote="Seifood" revision="lineage-18.1" />
-
+   
 </manifest>
