@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote name="elixir-gitlab"
-          fetch="https://gitlab.pixelexperience.org/android/vendor-blobs/"
-          revision="eleven" />
-
    <!-- github remote -->
    <remote name="Seifood" fetch="https://github.com/Seifood" />
    
    <!-- Trees -->
    <project path="device/xiaomi/gauguin" name="android_device_xiaomi_gauguin.git" remote="Seifood" revision="12" />
-   <project path="vendor/xiaomi/gauguin" name="vendor_xiaomi_gauguin" remote="elixir-gitlab" />
+   <project path="vendor/xiaomi/gauguin" name="vendor_xiaomi_gauguin.git" remote="Seifood" revision="dot11" />
    
 </manifest>
