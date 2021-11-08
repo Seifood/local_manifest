@@ -2,10 +2,9 @@
 <manifest>
 
    <!-- github remote -->
-   <remote name="baolong24-Studio" fetch="https://github.com/baolong24-Studio" />
    <remote name="Seifood" fetch="https://github.com/Seifood" />
    <!-- Trees -->
-   <project path="device/xiaomi/gauguin" name="android_device_xiaomi_gauguin.git" remote="baolong24-Studio" revision="twelve" />
+   <project path="device/xiaomi/gauguin" name="android_device_xiaomi_gauguin-1.git" remote="Seifood" revision="twelve" />
    <project path="vendor/xiaomi/gauguin" name="vendor_xiaomi_gauguin.git" remote="Seifood" revision="dot11" />
    
 </manifest>
