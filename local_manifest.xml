@@ -4,7 +4,7 @@
    <!-- github remote -->
    <remote name="Seifood" fetch="https://github.com/Seifood" />
    <!-- Trees -->
-   <project path="device/xiaomi/gauguin" name="android_device_xiaomi_gauguin-1.git" remote="Seifood" revision="twelve" />
+   <project path="device/xiaomi/gauguin" name="device_xiaomi_gauguin-1.git" remote="Seifood" revision="dot11" />
    <project path="vendor/xiaomi/gauguin" name="vendor_xiaomi_gauguin.git" remote="Seifood" revision="dot11" />
    
 </manifest>
