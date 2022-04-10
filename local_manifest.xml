@@ -5,6 +5,6 @@
    <remote name="Seifood" fetch="https://github.com/Seifood" />
    <!-- Trees -->
    <project path="device/xiaomi/gauguin" name="device_xiaomi_gauguin-2.git" remote="Seifood" revision="twelve" />
-   <project path="vendor/xiaomi/gauguin" name="vendor_xiaomi_gauguin.git" remote="Seifood" revision="dot11" />
+   <project path="vendor/xiaomi/gauguin" name="vendor_xiaomi_gauguin-1.git" remote="Seifood" revision="twelve" />
    
 </manifest>
