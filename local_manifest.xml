@@ -7,5 +7,6 @@
    <project path="vendor/xiaomi/odin" name="vendor_xiaomi_odin.git" remote="Seifood" revision="lineage-19.1" />
    <project path="kernel/xiaomi/odin" name="Seifood/kernel_xiaomi_odin.git" remote="github" revision="lineage-19.1" />
    <project path="device/xiaomi/odin" name="Seifood/device_xiaomi_odin.git" remote="github" revision="lineage-19.1" />
+   <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi.git" remote="github" revision="lineage-18.1" />
 
 </manifest>
