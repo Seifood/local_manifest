@@ -4,9 +4,9 @@
    <!-- github remote -->
    <remote name="Seifood" fetch="https://github.com/Seifood" />
    <!-- Trees -->
-   <project path="vendor/xiaomi/gauguin" name="vendor_xiaomi_gauguin-1.git" remote="Seifood" revision="twelve" />
+   <project path="vendor/xiaomi/gauguin" name="ProjectElixir-Devices/vendor_xiaomi_gauguin.git" remote="github" revision="twelve" />
    <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi.git" remote="github" revision="lineage-18.1" />
-   <project path="kernel/xiaomi/gauguin" name="Seifood/kernel_xiaomi_gauguin.git" remote="github" revision="twelve" />
-   <project path="device/xiaomi/gauguin" name="Seifood/device_xiaomi_gauguin-4.git" remote="github" revision="twelve" />
+   <project path="kernel/xiaomi/gauguin" name="PixelExperience-Devices/kernel_xiaomi_gauguin.git" remote="github" revision="twelve" />
+   <project path="device/xiaomi/gauguin" name="Seifood/device_xiaomi_gauguin-1.git" remote="github" revision="twelve" />
    
 </manifest>
